@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrimeNumber</string>
+    <string name="input_hint">Enter the number</string>
+</resources>
